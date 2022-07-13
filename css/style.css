@@ -1,0 +1,137 @@
+body {
+    width: 98%;
+    margin: 0;
+}
+
+#food {
+    display: flex;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+.pikture {
+    width: 50%;
+}
+
+.skip {
+    width: 50%;
+    padding: 50px 30px 20px;
+    color: gray;
+}
+
+#nd {
+    display: flex;
+    background-image: url(../images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.lorem img {
+    width: 500px;
+    margin-right: 40px;
+    padding: 70px 2px 2px 2px;
+}
+
+.text {
+    padding: 300px 2px 2px 2px;
+    width: 50%;
+    margin-left: 60px;
+}
+
+strong {
+    color: orange;
+}
+
+p {
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, red);
+    border-radius: 30px;
+    font-size: 30px;
+    padding: 20px;
+    box-shadow: 10px 10px 10px 10px pink;
+}
+
+h2 {
+    font-size: 70px;
+    color: gray;
+    text-align: center;
+}
+
+.my {
+    text-align: justify;
+    width: 0 20%;
+    box-shadow: black;
+}
+
+h3 {
+    font-size: 50px;
+    text-align: center;
+    padding: 30px;
+    margin: 30px 50px 20px 50px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+#div {
+    display: flex;
+    border-radius: 4%;
+}
+
+.image img {
+    width: 400px;
+    height: 250px;
+    border-radius: 8%;
+}
+
+.image {
+    border: 3px solid gray;
+    width: 30%;
+    margin: 10px 20px 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    border-radius: 5%;
+    box-shadow: 20px 20px 20px gray;
+
+}
+
+#number {
+    display: flex;
+    margin: 50px 70px 50px;
+    border: 3px solid grey;
+    box-shadow: 20px 20px 20px gray;
+}
+
+.you {
+    margin-left: 150px;
+    margin-right: 250px;
+}
+
+.Instagram {
+    margin-right: 250px;
+}
+
+span {
+    font-size: 25px;
+}
+
+.last {
+    background-color: black;
+    color: azure;
+    padding: 60px 150px 60px 150px;
+    text-align: center;
+}
+
+h5 {
+    font-size: 40px;
+    color: gray;
+}
